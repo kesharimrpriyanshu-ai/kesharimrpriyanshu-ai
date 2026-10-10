@@ -1,23 +1,25 @@
 # Hi there, I'm Priyanshu Keshari 👋
 
-### Architecting intelligence and building scalable AI solutions.
+### Computer Science Student & Aspiring Web Developer 💻
 
-I am a Computer Science Student & Tech Enthusiast, passionate about Machine Learning, Data Structures, and building smart solutions.
+I am a CSE student currently diving deep into the world of Web Development. I love building interactive web applications and learning new technologies.
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **AI/ML projects and Data Structures**
-- 🌱 I’m currently learning **Advanced Python and C++**
-- 💬 Ask me about **Python, C++, and basic AI concepts**
+- 🔭 I’m currently learning **Frontend & Backend Web Development**
+- 🌱 Exploring technologies like **HTML, CSS, JavaScript, and React**
+- 🐍 I also know a little bit of **Python**
+- 💬 Ask me about **my journey in tech as a CSE student!**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priyanshu-keshari-9b177b435)
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kesharimrpriyanshu-ai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+  <img src="
